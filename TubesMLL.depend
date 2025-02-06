@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1703750018 source:c:\users\aydin shidqi\documents\kuliah\semester iii\tubesmll\main.cpp
+	"MLL.h"
+
+1704178456 c:\users\aydin shidqi\documents\kuliah\semester iii\tubesmll\mll.h
+	<iostream>
+
+1704232090 source:c:\users\aydin shidqi\documents\kuliah\semester iii\tubesmll\mll.cpp
+	"MLL.h"
+
+1703588831 source:c:\users\aydin shidqi\documents\kuliah\semester iii\tubesmll\cadangan.cpp
+	"MLL.h"
+
