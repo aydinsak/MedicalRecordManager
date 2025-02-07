@@ -1,0 +1,12 @@
+{
+    "name": "C++ Development",
+    "image": "mcr.microsoft.com/devcontainers/cpp",
+    "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+    },
+    "postCreateCommand": "g++ --version",
+    "extensions": [
+        "ms-vscode.cpptools",
+        "twxs.cmake"
+    ]
+}
