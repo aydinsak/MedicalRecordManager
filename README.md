@@ -1,6 +1,6 @@
 # **Data Berobat MLL (ID) / Medical Record Management - MLL (EN)**
 
-## **Bahasa Indonesia 🇮🇩**
+## **Bahasa Indonesia**
 
 ### **Deskripsi**
 Proyek ini dikembangkan pada tahun 2023 sebagai bagian dari tugas besar mata kuliah **Struktur Data**. Aplikasi ini dibuat menggunakan **C++** dan mengimplementasikan konsep **single linked list, multi linked list, dan queue**.  
@@ -23,7 +23,7 @@ Aplikasi ini berbasis **console**, tidak memiliki antarmuka grafis, dan berjalan
 
 ---
 
-## **English 🇬🇧**
+## **English**
 
 ### **Description**
 This project was developed in 2023 as part of a major university course assignment on **Data Structures**. It is built using **C++** and implements **single linked list, multi linked list, and queue** concepts.  
