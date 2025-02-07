@@ -17,3 +17,7 @@ This project was developed in 2023 as part of a major university course assignme
   - Display doctors who are available and those who are fully booked  
   - Implement a patient queue system for each doctor based on availability  
 
+## 🚀 Run in GitHub Codespaces
+Click the button below to run this project in GitHub Codespaces instantly:
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/?repo=YOUR_REPO_NAME)
