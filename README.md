@@ -1,4 +1,4 @@
-# **Data Berobat MLL (ID) / Medical Record Management - MLL (EN)**
+# **Data Berobat / Medical Record Management **
 
 ## **Bahasa Indonesia**
 
